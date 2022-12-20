@@ -22,7 +22,7 @@
 		<sonar.host.url>http://localhost:9000</sonar.host.url>
 		<sonar.login>sqp_aaf2562752aef2967e8f0181783c6bb9eb697e1c</sonar.login>
 
-	</properties>
+	</properties> 
 
 	<dependencies>
 		<dependency>
